@@ -1,1 +1,1 @@
-import OTP.py
+import OTP
